@@ -1,0 +1,16 @@
+
+.bikes-carousel-control{
+    background-color: rgba(231, 9, 9, 0.548);
+}
+.star-icon{
+    width: 30px;
+    height: 30px;
+}
+.hide{
+    display: none;
+}
+footer{
+    width: 100%;
+    background-color: black;
+    height: 300px;
+}
